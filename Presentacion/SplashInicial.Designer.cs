@@ -44,7 +44,7 @@
             this.lblInv3.Name = "lblInv3";
             this.lblInv3.Size = new System.Drawing.Size(287, 45);
             this.lblInv3.TabIndex = 4;
-            this.lblInv3.Text = "INVENTARY BOX";
+            this.lblInv3.Text = "INVENTORY BOX";
             // 
             // lblInv4
             // 
@@ -56,7 +56,7 @@
             this.lblInv4.Name = "lblInv4";
             this.lblInv4.Size = new System.Drawing.Size(287, 45);
             this.lblInv4.TabIndex = 1;
-            this.lblInv4.Text = "INVENTARY BOX";
+            this.lblInv4.Text = "INVENTORY BOX";
             // 
             // lblInv1
             // 
@@ -67,7 +67,7 @@
             this.lblInv1.Name = "lblInv1";
             this.lblInv1.Size = new System.Drawing.Size(287, 45);
             this.lblInv1.TabIndex = 2;
-            this.lblInv1.Text = "INVENTARY BOX";
+            this.lblInv1.Text = "INVENTORY BOX";
             // 
             // lblInv2
             // 
@@ -78,7 +78,7 @@
             this.lblInv2.Name = "lblInv2";
             this.lblInv2.Size = new System.Drawing.Size(287, 45);
             this.lblInv2.TabIndex = 3;
-            this.lblInv2.Text = "INVENTARY BOX";
+            this.lblInv2.Text = "INVENTORY BOX";
             // 
             // label1
             // 
@@ -89,7 +89,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(296, 45);
             this.label1.TabIndex = 0;
-            this.label1.Text = "INVENTARY BOX ";
+            this.label1.Text = "INVENTORY BOX ";
             // 
             // SplashInicial
             // 

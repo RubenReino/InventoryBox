@@ -154,5 +154,10 @@ namespace Presentacion
                 File.Copy(archivo.FileName,ConfigurationManager.AppSettings["images-folder"]+archivo.SafeFileName);
             }
         }
+
+        private void cboMarca_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
