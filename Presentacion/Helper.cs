@@ -22,7 +22,7 @@ namespace Presentacion
             catch (Exception ex)
             {
 
-                pbo.Load("https://jdih.unila.ac.id/public/images/no_image.jpg");
+                pbo.Load("https://i0.wp.com/impactify.io/wp-content/uploads/2024/05/placeholder-5.png?fit=1200%2C800&ssl=1&w=640");
             }
         }
         public void ocultarColumnas(DataGridView dgv)
