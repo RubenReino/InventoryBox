@@ -25,8 +25,8 @@ Aplicación de escritorio desarrollada en C# con WinForms para la gestión de in
 
 ##  Capturas de pantalla
 
-![Splash inicial](imagenes/splash.png)
-![lista de articulos](imagenes/inicial-1.png)
+![detalles de articulo](imagenes/Splash.png)
+![detalles de articulo](imagenes/inicial-1.png)
 ![detalles de articulo](imagenes/inicial-2.png)
 ![modificar articulo](imagenes/inicial-3.png)
 
