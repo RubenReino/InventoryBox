@@ -16,6 +16,10 @@ namespace Presentacion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            using (var splash = new SplashInicial())
+            {
+                splash.ShowDialog();
+            }
             Application.Run(new VentanaPrincipal());
         }
     }

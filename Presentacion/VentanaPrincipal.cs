@@ -21,17 +21,17 @@ namespace Presentacion
         {
             InitializeComponent();
             this.Icon = Properties.Resources.ZentoryIco_1;
+            
         }
         private void VentanaPrincipal_Load(object sender, EventArgs e)
         {
-            SplashInicial nuevo = new SplashInicial();
-            nuevo.ShowDialog();
             cargarVentanaP();
             cboFiltrarPor.Items.Add("Código");
             cboFiltrarPor.Items.Add("Nombre");
             cboFiltrarPor.Items.Add("Marca");
             cboFiltrarPor.Items.Add("Categoria");
             cboFiltrarPor.Items.Add("Precio");
+
         }
         // Carga los artículos desde la capa de negocio y los muestra en el DataGridView
         private void cargarVentanaP()

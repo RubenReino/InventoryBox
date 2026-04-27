@@ -39,7 +39,7 @@ namespace Presentacion
             {
                 if (contador > 170)
                 {
-                this.Opacity -= 0.03;
+                this.Opacity -= 0.02;
 
                 }
                 else

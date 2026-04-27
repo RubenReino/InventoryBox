@@ -1,4 +1,4 @@
-#  Inventory Management System
+#  ZENTORY
 
 Aplicación de escritorio desarrollada en C# con WinForms para la gestión de inventarios. Permite administrar productos, controlar stock y gestionar información almacenada en base de datos.
 
