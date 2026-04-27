@@ -21,11 +21,14 @@ namespace Presentacion
         public VentanaAgregar()
         {
             InitializeComponent();
+            this.Icon = Properties.Resources.ZentoryIco_1;
+
         }
         public VentanaAgregar(Articulo seleccion)
         {
             InitializeComponent();
             this.articuloA = seleccion;
+            this.Icon = Properties.Resources.ZentoryIco_1;
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)

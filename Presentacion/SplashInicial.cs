@@ -19,6 +19,9 @@ namespace Presentacion
         public SplashInicial()
         {
             InitializeComponent();
+            this.BackgroundImage = Properties.Resources.FondoZentory;
+            this.BackgroundImageLayout = ImageLayout.Stretch;
+            this.Icon = Properties.Resources.ZentoryIco_1;
 
         }
 

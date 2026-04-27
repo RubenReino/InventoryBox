@@ -20,6 +20,7 @@ namespace Presentacion
         public VentanaPrincipal()
         {
             InitializeComponent();
+            this.Icon = Properties.Resources.ZentoryIco_1;
         }
         private void VentanaPrincipal_Load(object sender, EventArgs e)
         {
